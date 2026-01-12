@@ -1,6 +1,6 @@
 # Backend Playground
 
-A simple repository to **experiment with backend development** while learning Android app development.
+A simple repository to **experiment with backend development** with spring while learning Android app development.
 
 This is a **learning space**, not a production-ready project. The goal is to try things, understand how backend systems work, and slowly build clarity.
 
